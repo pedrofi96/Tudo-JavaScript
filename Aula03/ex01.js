@@ -1,0 +1,1 @@
+console.log('Olá, meu nome é "Pedro Filipe". Estou aprendendo Javascript às',9+':'+17,'da manhã.');
